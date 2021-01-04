@@ -41,4 +41,6 @@ In order to use the collaborative feature of editor, move to Server/PusherAuth a
 > host = "xxx.xxx.xxx.xxx" 
 
 then run node.js server using: 
-> node app.js This server uses Pusher's channel API to allow collaboration between users in the same room.
+> node app.js 
+
+This server uses Pusher's channel API to allow collaboration between users in the same room.
