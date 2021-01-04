@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "220832730205",
+    "firebase_url": "https://collaborative-coding-editor.firebaseio.com",
+    "project_id": "collaborative-coding-editor",
+    "storage_bucket": "collaborative-coding-editor.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:220832730205:android:342f67b6869b0a065951b4",
+        "android_client_info": {
+          "package_name": "com.example.python_text_editor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "220832730205-dg5rrte5fseo3caqbprr6kcphr3do8o4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2SUisw_TaktunylFTKqKT0DqK9qo8RxQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "220832730205-dg5rrte5fseo3caqbprr6kcphr3do8o4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
