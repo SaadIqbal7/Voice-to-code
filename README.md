@@ -45,3 +45,11 @@ then run node.js server using:
 > node app.js 
 
 This server uses Pusher's channel API to allow collaboration between users in the same room.
+
+
+![](https://github.com/SaadIqbal7/Voice-to-code/blob/main/20210111_035920.jpg)
+![](https://github.com/SaadIqbal7/Voice-to-code/blob/main/20210111_035937.jpg)
+![](https://github.com/SaadIqbal7/Voice-to-code/blob/main/20210111_040030.jpg)
+![](https://github.com/SaadIqbal7/Voice-to-code/blob/main/20210111_040053.jpg)
+![](https://github.com/SaadIqbal7/Voice-to-code/blob/main/20210111_040115.jpg)
+
