@@ -18,8 +18,7 @@ py server_socket.py
 
 Make sure you have the necessary python packages. 
 
-To make inference, first download encoder and decoder weights from this link:
-https://drive.google.com/drive/folders/1cEcA2wRek9NKbZ5h0dKjUJY7hfmkwv-z?usp=sharing
+To make inference, first download encoder and decoder weights from this [link](https://drive.google.com/drive/folders/1cEcA2wRek9NKbZ5h0dKjUJY7hfmkwv-z?usp=sharing).
 
 Copy both encoder and decoder weights in Server/model directory
 
