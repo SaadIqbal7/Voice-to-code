@@ -1,4 +1,4 @@
-# Voice to code
+# Voice to Code
  
 
 Voice-to-code Collaborative code editor that lets user write python code using natural language This is a demo application that allows the user to write python code using natural language. 
